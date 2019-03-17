@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon is a simple nodebased storefront using the Inquirer npm package and the MySQL database. \"The app will take in orders from customers and deplete stock from the store's inventory.\"",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azhossain/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azhossain/Bamazon/issues"
+  },
+  "homepage": "https://github.com/azhossain/Bamazon#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
